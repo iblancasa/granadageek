@@ -3,9 +3,11 @@ Miércoles Geek
 
 Repositorio para organizarlos #MiercolesGeek, que no tienen por que ser un miércoles (aunque generalmente sí).
 
+## Sigue el repositorio
+Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](https://github.com/iblancasa/miercolesgeek/subscription)
+
 ## ¡Participa!
 [¿Quieres dar una charla o te gustaría que se hablase sobre algún tema? Abre un issue](https://github.com/iblancasa/miercolesgeek/issues) :speech_balloon:
-
 
 ## Eventos pasados
 | Fecha     | Charla              |Autor       |
