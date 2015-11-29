@@ -9,6 +9,7 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 ## Eventos proximos
 | Fecha     | Charla              |Autor       |
 |:--------:|:------------------:|:-----------:|
+|19/12/2015, 13:30 mañana|Por qué para editar no necesitas nada más que emacs|[JJ](https://github.com/JJ)|
 |15/12/2015, 12 mañana|La pila ELK|[David Sedeño](https://github.com/davidsf)|
 |16/12/2015|[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm) y [@demiurgosoft](https://github.com/demiurgosoft)|
 
