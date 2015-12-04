@@ -11,8 +11,8 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 |:--------:|:------------------:|:-----------:|
 |9/12/2015, 13:30 mañana|Por qué no necesitas nada más que emacs|[JJ](https://github.com/JJ)|
 |15/12/2015, 12 mañana|La pila ELK|[David Sedeño](https://github.com/davidsf)|
-|15/12/2015, 14:00 |Ubuntu&beers en La Posada|[Marcos Costales](https://github.com/costales)|
-|16/12/2015|[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm) y [@demiurgosoft](https://github.com/demiurgosoft)|
+|16/12/2015|[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm)y [@demiurgosoft](https://github.com/demiurgosoft)|
+|16/12/2015, 14:00 |Ubuntu&beers en La Posada|[Marcos Costales](https://github.com/costales)|
 
 
 ## ¡Participa!
