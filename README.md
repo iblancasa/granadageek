@@ -9,10 +9,10 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 ## Eventos proximos
 | Fecha     | Charla              |Autor       |
 |:--------:|:------------------:|:-----------:|
-|9/12/2015, 13:30 mañana|Por qué para editar no necesitas nada más que emacs|[JJ](https://github.com/JJ)|
-|15/12/2015, 12:00 mañana|Elasticsearch, Logstash y Kibana|[David Sedeño](https://github.com/davidsf)|
+|9/12/2015, 13:30 mañana|Por qué no necesitas nada más que emacs|[JJ](https://github.com/JJ)|
+|15/12/2015, 12 mañana|La pila ELK|[David Sedeño](https://github.com/davidsf)|
+|15/12/2015, 14:00 |Ubuntu&beers en La Posada|[Marcos Costales](https://github.com/costales)|
 |16/12/2015|[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm) y [@demiurgosoft](https://github.com/demiurgosoft)|
-
 
 
 ## ¡Participa!
