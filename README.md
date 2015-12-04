@@ -15,7 +15,6 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 |16/12/2015|[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm) y [@demiurgosoft](https://github.com/demiurgosoft)|
 
 
-
 ## ¡Participa!
 [¿Quieres dar una charla o te gustaría que se hablase sobre algún tema? Abre un issue](https://github.com/iblancasa/miercolesgeek/issues) :speech_balloon:
 
