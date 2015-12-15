@@ -10,7 +10,7 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 | Fecha     | Charla              |Autor       |
 |:--------:|:------------------:|:-----------:|
 |15/12/2015, 12 mañana|La pila ELK|[David Sedeño](https://github.com/davidsf)|
-|16/12/2015|[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm)y [@demiurgosoft](https://github.com/demiurgosoft)|
+|16/12/2015,10:30, usos multiples |[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm)y [@demiurgosoft](https://github.com/demiurgosoft)|
 |16/12/2015, 14:00 |Ubuntu&beers en La Posada|[Marcos Costales](https://github.com/costales)|
 |13/01/2015| TOR, Onion Routing & Deepweb  |[Marco Fernández Pranno](https://github.com/MarFerPra)|
 
