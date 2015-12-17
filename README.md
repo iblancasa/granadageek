@@ -9,7 +9,6 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 ## Eventos proximos
 | Fecha     | Charla              |Autor       |
 |:--------:|:------------------:|:-----------:|
-|16/12/2015, 14:00 |Ubuntu&beers en La Posada|[Marcos Costales](https://github.com/costales)|
 |13/01/2015| TOR, Onion Routing & Deepweb  |[Marco Fernández Pranno](https://github.com/MarFerPra)|
 
 
@@ -19,13 +18,14 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 ## Eventos pasados
 | Fecha     | Charla              |Autor       |
 |:--------:|:------------------:|:-----------:|
-|18/11/2015|[Brujería con Node.js][brujeria_node]|[@demiurgosoft](https://github.com/demiurgosoft)|
-|24/11/2015|[Trabajando con Git y GitHub][git_github]|[@JJ](https://github.com/JJ)|
-|25/11/2015|[Bots para dominar el mundo][bots_dominar]|[@terceranexus6](https://github.com/terceranexus6)|
+|16/12/2015|Ubuntu&beers en La Posada|[Marcos Costales](https://github.com/costales)|
+|16/12/2015|[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm) y [@demiurgosoft](https://github.com/demiurgosoft)|
+|15/12/2015|[La pila ELK](https://github.com/davidsf/charla_elasticsearch)|[David Sedeño](https://github.com/davidsf)|
+|9/12/2015|Por qué no necesitas nada más que emacs|[JJ](https://github.com/JJ)|
 |25/11/2015|Pispaas [(@JJ)][pispaas_jj] [(@iblancasa)][pispaas_iblancasa]|[@JJ](https://github.com/JJ) e [@iblancasa](https://github.com/iblancasa)|
-|9/12/2015, 13:30 mañana|Por qué no necesitas nada más que emacs|[JJ](https://github.com/JJ)|
-|15/12/2015, 12 mañana|[La pila ELK](https://github.com/davidsf/charla_elasticsearch)|[David Sedeño](https://github.com/davidsf)|
-|16/12/2015,10:30, usos multiples |[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm) y [@demiurgosoft](https://github.com/demiurgosoft)|
+|25/11/2015|[Bots para dominar el mundo][bots_dominar]|[@terceranexus6](https://github.com/terceranexus6)|
+|24/11/2015|[Trabajando con Git y GitHub][git_github]|[@JJ](https://github.com/JJ)|
+|18/11/2015|[Brujería con Node.js][brujeria_node]|[@demiurgosoft](https://github.com/demiurgosoft)|
 
 ## ¿Quienes somos?
 Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reunimos en la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de Granada para hablar de distintos temas. No hace falta que seas miembro de la Universidad de Granada para participar.
