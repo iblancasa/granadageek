@@ -7,9 +7,10 @@ Repositorio para organizarlos #MiercolesGeek, que no tienen por que ser un miér
 Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](https://github.com/iblancasa/miercolesgeek/subscription)
 
 ## Eventos proximos
-| Fecha     | Charla              |Autor       |
-|:--------:|:------------------:|:-----------:|
-|13/01/2015| TOR, Onion Routing & Deepweb  |[Marco Fernández Pranno](https://github.com/MarFerPra)|
+| Fecha  |Hora    | Lugar     | Charla     |Autor       |
+|:------:|:------:|:---------:|:----------:|:-----------|
+|13/01/2015| No fijado |No fijado| TOR, Onion Routing & Deepweb  |[Marco Fernández Pranno](https://github.com/MarFerPra)|
+
 
 
 ## ¡Participa!
