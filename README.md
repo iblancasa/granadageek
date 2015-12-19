@@ -39,4 +39,5 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 [pispaas_jj]: http://jj.github.io/pispaas/
 [pispaas_iblancasa]: http://iblancasa.com/PaaSalo-iblancasa/
 [emacs_jj]: http://github.com/JJ/ayniEmacs
+[elasticsearch]: https://github.com/davidsf/charla_elasticsearch
 [raspberry]: https://github.com/javacasm/RaspberryMiercolesGeek
