@@ -11,7 +11,7 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 |:--------:|:-------:|:-------:|:----------:|:-----------|
 |17/02/2016|18:30|Sala de usos múltiples (ETSIIT)| TOR, Onion Routing & Deepweb  |[Marco Fernández Pranno](https://github.com/MarFerPra)|
 |2/03/2016 |19:30|No fijado| Introducción al desarrollo de videojuegos con Unity (& Beers) | [Andrés Ortiz](https://github.com/demiurgosoft)|
-|9/03/2016 |No fijado|No fijado| Android Invaders. Seguridad en dispositivos Android. | [Juan Velasco](https://github.com/juanvelascogomez), [Antonio Solis](https://github.com/asolisi) y [Javier Perez](https://github.com/neon520) |
+|9/03/2016 |19:30|No fijado| Android Invaders. Seguridad en dispositivos Android. | [Juan Velasco](https://github.com/juanvelascogomez), [Antonio Solis](https://github.com/asolisi) y [Javier Perez](https://github.com/neon520) |
 
 
 ## ¡Participa!
