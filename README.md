@@ -9,8 +9,6 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 ## Eventos proximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
-|17/02/2016|18:30|Sala de usos múltiples (ETSIIT)| TOR, Onion Routing & Deepweb  |[Marco Fernández Pranno](https://github.com/MarFerPra)|
-|2/03/2016 |19:30|Sala de usos múltiples (ETSIIT)| [Introducción al desarrollo de videojuegos con Unity (& Beers)](https://github.com/demiurgosoft/codename_string) | [Andrés Ortiz](https://github.com/demiurgosoft)|
 |9/03/2016 |19:30|Sala de usos múltiples (ETSIIT)| Android Invaders. Seguridad en dispositivos Android. | [Juan Velasco](https://github.com/juanvelascogomez), [Antonio Solis](https://github.com/asolisi) y [Javier Perez](https://github.com/neon520) |
 
 
@@ -21,8 +19,10 @@ http://www.meetup.com/es-ES/Granada-Geek/
 [¿Quieres dar una charla o te gustaría que se hablase sobre algún tema? Abre un issue](https://github.com/iblancasa/miercolesgeek/issues) :speech_balloon:
 
 ## Eventos pasados
-| Fecha     | Charla              |Autor       |
+| Fecha    | Charla              |Autor       |
 |:--------:|:------------------:|:-----------:|
+|2/03/2016 |[Introducción al desarrollo de videojuegos con Unity (& Beers)](https://github.com/demiurgosoft/codename_string) | [Andrés Ortiz](https://github.com/demiurgosoft)|
+|17/02/2016|TOR, Onion Routing & Deepweb  |[Marco Fernández Pranno](https://github.com/MarFerPra)|
 |16/12/2015|Ubuntu&beers en La Posada|[Marcos Costales](https://github.com/costales)|
 |16/12/2015|[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm) y [Andrés ortiz](https://github.com/demiurgosoft)|
 |15/12/2015|[La pila ELK](https://github.com/davidsf/charla_elasticsearch)|[David Sedeño](https://github.com/davidsf)|
