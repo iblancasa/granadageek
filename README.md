@@ -25,8 +25,8 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 ## Eventos pasados
 | Fecha    | Charla              |Autor       |
 |:--------:|:------------------:|:-----------:|
-|9/03/2016 |Android Invaders. Seguridad en dispositivos Android. | [Juan Velasco](https://github.com/juanvelascogomez), [Antonio Solis](https://github.com/asolisi) y [Javier Perez](https://github.com/neon520)|
-|2/03/2016 |[Introducción al desarrollo de videojuegos con Unity](https://github.com/demiurgosoft/codename_string) | [Andrés Ortiz](https://github.com/demiurgosoft)|
+|9/03/2016 |[Android Invaders. Seguridad en dispositivos Android][android_invaders] | [Juan Velasco](https://github.com/juanvelascogomez), [Antonio Solis](https://github.com/asolisi) y [Javier Perez](https://github.com/neon520)|
+|2/03/2016 |[Introducción al desarrollo de videojuegos con Unity][codename_sting]| [Andrés Ortiz](https://github.com/demiurgosoft)|
 |17/02/2016|TOR, Onion Routing & Deepweb  |[Marco Fernández Pranno](https://github.com/MarFerPra)|
 |16/12/2015|Ubuntu&beers en La Posada|[Marcos Costales](https://github.com/costales)|
 |16/12/2015|[Raspberry Geek][raspberry]|[@javacasm](https://github.com/javacasm) y [Andrés ortiz](https://github.com/demiurgosoft)|
@@ -39,6 +39,8 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 
 ¡Te esperamos! :eyes:
 
+[codename_sting]:https://github.com/demiurgosoft/codename_string
+[android_invaders]:https://github.com/juanvelascogomez/Android-Invaders
 [brujeria_node]:http://demiurgosoft.github.io/brujeria-con-node/
 [git_github]: http://jj.github.io/masgit
 [bots_dominar]: https://docs.google.com/presentation/d/1IqVE9mdqlMXrcom07A29VR74XkZ9KOj42V5v6m8MuUs/
