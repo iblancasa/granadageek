@@ -19,6 +19,9 @@ http://www.meetup.com/es-ES/Granada-Geek/
 ## ¡Participa!
 [¿Quieres dar una charla o te gustaría que se hablase sobre algún tema? Abre un issue](https://github.com/iblancasa/miercolesgeek/issues) :speech_balloon:
 
+## ¿Quienes somos?
+Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reunimos en la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de Granada para hablar de distintos temas. No hace falta que seas miembro de la Universidad de Granada para participar.
+
 ## Eventos pasados
 | Fecha    | Charla              |Autor       |
 |:--------:|:------------------:|:-----------:|
@@ -33,9 +36,6 @@ http://www.meetup.com/es-ES/Granada-Geek/
 |25/11/2015|[Bots para dominar el mundo][bots_dominar]|[@terceranexus6](https://github.com/terceranexus6)|
 |24/11/2015|[Trabajando con Git y GitHub][git_github]|[@JJ](https://github.com/JJ)|
 |18/11/2015|[Brujería con Node.js][brujeria_node]|[Andrés Ortiz](https://github.com/demiurgosoft)|
-
-## ¿Quienes somos?
-Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reunimos en la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de Granada para hablar de distintos temas. No hace falta que seas miembro de la Universidad de Granada para participar.
 
 ¡Te esperamos! :eyes:
 
