@@ -9,7 +9,8 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 ## Eventos proximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
-|16/03/2015|19:00|Salón de grados (ETSIIT)|Visualización de datos con D3JS|[JJ](https://github.com/JJ)|
+|16/03/2016|19:00|Salón de grados (ETSIIT)|Visualización de datos con D3JS|[JJ](https://github.com/JJ)|
+|30/03/2016| --- | --- |Taller de R|[JJ](https://github.com/JJ)|
 |6/04/2016|12:30|Salón de grados (ETSIIT)|Visualización de datos con R|[JJ](https://github.com/JJ)|
 
 
