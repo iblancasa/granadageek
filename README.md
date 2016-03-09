@@ -12,6 +12,7 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 |16/03/2016|19:00|Salón de grados (ETSIIT)|Visualización de datos con D3JS|[JJ](https://github.com/JJ)|
 |30/03/2016| --- | --- |Taller de R|[JJ](https://github.com/JJ)|
 |6/04/2016|12:30|Salón de grados (ETSIIT)|Visualización de datos con R|[JJ](https://github.com/JJ)|
+|11/04/2016|18:30|Salón de grados (ETSIIT)|Taller de JQuery|
 
 
 ## ¡¡Visita Granada Geek!!
