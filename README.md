@@ -1,7 +1,7 @@
 Miércoles Geek
 ==============
 
-Repositorio para organizarlos #MiercolesGeek, que no tienen por que ser un miércoles (aunque generalmente sí).
+Repositorio para organizar los #MiercolesGeek, que no tienen por que ser un miércoles (aunque generalmente sí).
 
 ## Sigue el repositorio
 Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](https://github.com/iblancasa/miercolesgeek/subscription)
