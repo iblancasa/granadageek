@@ -9,11 +9,11 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 ## Eventos proximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
-|11/04/2016|18:30|Salón de grados (ETSIIT)|Taller de JQuery| --- |
+|11/04/2016|18:30|Salón de grados (ETSIIT)|Taller de JQuery|[@germaaan](https://github.com/germaaan)|
 |18/04/2016|9:00|OSL|Hackatón de reciclaje y ensamblaje de ordenadores|---|
 |27/04/2016|18:30|Salón de grados (ETSIIT)|Taller de Python| --- |
 |29/04/2016|11:30|Sala usos múltiples|Electronic frontier foundation|[@terceranexus6](https://github.com/terceranexus6)|
-|11/05/2016|11:30|Salón de grados|Taller de programación cloud|---|
+|11/05/2016|11:30|Salón de grados|Taller de programación cloud|[@germaaan](https://github.com/germaaan)|
 
 
 ## ¡¡Visita Granada Geek!!
