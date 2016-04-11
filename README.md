@@ -9,11 +9,11 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 ## Eventos proximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
-|16/03/2016|19:00|Salón de grados (ETSIIT)|Visualización de datos con D3JS|[JJ](https://github.com/JJ)|
-|30/03/2016| --- | --- |Taller de R|[JJ](https://github.com/JJ)|
-|6/04/2016|12:30|Salón de grados (ETSIIT)|Visualización de datos con R|[JJ](https://github.com/JJ)|
 |11/04/2016|18:30|Salón de grados (ETSIIT)|Taller de JQuery| --- |
+|18/04/2016|9:00|OSL|Hackatón de reciclaje y ensamblaje de ordenadores|---|
 |27/04/2016|18:30|Salón de grados (ETSIIT)|Taller de Python| --- |
+|29/04/2016|11:30|Sala usos múltiples|Electronic frontier foundation|[@terceranexus6](https://github.com/terceranexus6)|
+|11/05/2016|11:30|Salón de grados|Taller de programación cloud|---|
 
 
 ## ¡¡Visita Granada Geek!!
@@ -28,6 +28,8 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 ## Eventos pasados
 | Fecha    | Charla              |Autor       |
 |:--------:|:------------------:|:-----------:|
+|6/04/2016|Visualización de datos con R|[JJ](https://github.com/JJ)|
+|16/03/2016|Visualización de datos con D3JS|[JJ](https://github.com/JJ)|
 |9/03/2016 |[Android Invaders. Seguridad en dispositivos Android][android_invaders] | [Juan Velasco](https://github.com/juanvelascogomez), [Antonio Solis](https://github.com/asolisi) y [Javier Perez](https://github.com/neon520)|
 |2/03/2016 |[Introducción al desarrollo de videojuegos con Unity][codename_sting]| [Andrés Ortiz](https://github.com/demiurgosoft)|
 |17/02/2016|[TOR, Onion Routing & Deepweb][tortilla_cebolla]  |[Marco Fernández Pranno](https://github.com/MarFerPra)|
