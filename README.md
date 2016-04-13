@@ -1,10 +1,14 @@
-Miércoles Geek
+Granada Geek
 ==============
 
-Repositorio para organizar los #MiercolesGeek, que no tienen por que ser un miércoles (aunque generalmente sí).
+Repositorio para organizar Granada Geek.
 
 ## Sigue el repositorio
-Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](https://github.com/iblancasa/miercolesgeek/subscription)
+Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](https://github.com/iblancasa/granadageek/subscription)
+
+## ¡¡Visita Granada Geek!!
+http://www.meetup.com/es-ES/Granada-Geek/
+
 
 ## Eventos proximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
@@ -16,8 +20,6 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 |11/05/2016|11:30|Salón de grados|Taller de programación cloud|[@germaaan](https://github.com/germaaan)|
 
 
-## ¡¡Visita Granada Geek!!
-http://www.meetup.com/es-ES/Granada-Geek/
 
 ## ¡Participa!
 [¿Quieres dar una charla o te gustaría que se hablase sobre algún tema? Abre un issue](https://github.com/iblancasa/miercolesgeek/issues) :speech_balloon:
