@@ -13,7 +13,7 @@ http://www.meetup.com/es-ES/Granada-Geek/
 ## Eventos proximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
-|18/04/2016|9:00|OSL|Hackatón de reciclaje y ensamblaje de ordenadores|---|
+|18/04/2016|9:00|OSL|Hackatón de reciclaje y ensamblaje de ordenadores|[@makova](https://github.com/makova)|
 |27/04/2016|18:30|Salón de grados (ETSIIT)|Taller de Python| --- |
 |29/04/2016|11:30|Sala usos múltiples|Electronic frontier foundation|[@terceranexus6](https://github.com/terceranexus6)|
 |11/05/2016|11:30|Salón de grados|Taller de programación cloud|[@germaaan](https://github.com/germaaan)|
