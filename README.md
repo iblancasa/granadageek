@@ -13,7 +13,6 @@ http://www.meetup.com/es-ES/Granada-Geek/
 ## Eventos proximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
-|11/04/2016|18:30|Salón de grados (ETSIIT)|Taller de JQuery|[@germaaan](https://github.com/germaaan)|
 |18/04/2016|9:00|OSL|Hackatón de reciclaje y ensamblaje de ordenadores|---|
 |27/04/2016|18:30|Salón de grados (ETSIIT)|Taller de Python| --- |
 |29/04/2016|11:30|Sala usos múltiples|Electronic frontier foundation|[@terceranexus6](https://github.com/terceranexus6)|
@@ -30,6 +29,7 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 ## Eventos pasados
 | Fecha    | Charla              |Autor       |
 |:--------:|:------------------:|:-----------:|
+|13/04/2016|[Taller de JQuery](https://github.com/germaaan/Charla_jQuery)|[Germán Martínez](https://github.com/germaaan)|
 |6/04/2016|Visualización de datos con R|[JJ](https://github.com/JJ)|
 |16/03/2016|Visualización de datos con D3JS|[JJ](https://github.com/JJ)|
 |9/03/2016 |[Android Invaders. Seguridad en dispositivos Android][android_invaders] | [Juan Velasco](https://github.com/juanvelascogomez), [Antonio Solis](https://github.com/asolisi) y [Javier Perez](https://github.com/neon520)|
