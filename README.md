@@ -13,10 +13,7 @@ http://www.meetup.com/es-ES/Granada-Geek/
 ## Eventos proximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
-|18/04/2016|9:00|OSL|Hackatón de reciclaje y ensamblaje de ordenadores|[@makova](https://github.com/makova)|
-|27/04/2016|18:30|Salón de grados (ETSIIT)|Taller de Python| --- |
-|29/04/2016|11:30|Sala usos múltiples|Electronic frontier foundation|[@terceranexus6](https://github.com/terceranexus6)|
-|11/05/2016|11:30|Salón de grados|Taller de programación cloud|[@germaaan](https://github.com/germaaan)|
+|          |         |         |            |            |
 
 
 
@@ -43,13 +40,16 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 |25/11/2015|[Bots para dominar el mundo][bots_dominar]|[@terceranexus6](https://github.com/terceranexus6)|
 |24/11/2015|[Trabajando con Git y GitHub][git_github]|[@JJ](https://github.com/JJ)|
 |18/11/2015|[Brujería con Node.js][brujeria_node]|[Andrés Ortiz](https://github.com/demiurgosoft)|
+|18/04/2016|Hackatón de reciclaje y ensamblaje de ordenadores|[@makova](https://github.com/makova)|
+|29/04/2016|Electronic frontier foundation|[@terceranexus6](https://github.com/terceranexus6)|
+|11/05/2016|[Taller de programación cloud][cloud]|[@germaaan](https://github.com/germaaan)|
 
 ¡Te esperamos! :eyes:
 
-[tortilla_cebolla]:https://github.com/MarFerPra/tortilla-con-cebolla
-[codename_sting]:https://github.com/demiurgosoft/codename_string
-[android_invaders]:https://github.com/juanvelascogomez/Android-Invaders
-[brujeria_node]:http://demiurgosoft.github.io/brujeria-con-node/
+[tortilla_cebolla]: https://github.com/MarFerPra/tortilla-con-cebolla
+[codename_sting]: https://github.com/demiurgosoft/codename_string
+[android_invaders]: https://github.com/juanvelascogomez/Android-Invaders
+[brujeria_node]: http://demiurgosoft.github.io/brujeria-con-node/
 [git_github]: http://jj.github.io/masgit
 [bots_dominar]: https://docs.google.com/presentation/d/1IqVE9mdqlMXrcom07A29VR74XkZ9KOj42V5v6m8MuUs/
 [pispaas_jj]: http://jj.github.io/pispaas/
@@ -57,3 +57,4 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 [emacs_jj]: http://github.com/JJ/ayniEmacs
 [elasticsearch]: https://github.com/davidsf/charla_elasticsearch
 [raspberry]: https://github.com/javacasm/RaspberryMiercolesGeek
+[cloud]: https://github.com/germaaan/charla_cloud
