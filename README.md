@@ -10,10 +10,10 @@ Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](http
 http://www.meetup.com/es-ES/Granada-Geek/
 
 
-## Eventos proximos
+## Eventos próximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
-|          |         |         |            |            |
+|21/09/2016|12:30    |ETSIIT   |Desarrollo usando git| Ángel Pablo Hinojosa/OSLUGR |
 
 
 
