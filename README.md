@@ -13,7 +13,7 @@ http://www.meetup.com/es-ES/Granada-Geek/
 ## Eventos próximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
-|21/09/2016|12:30    |ETSIIT   |Desarrollo usando git| Ángel Pablo Hinojosa/OSLUGR |
+|05/10/2016|12:30    |ETSIIT Aula -1.2 |El Zen de Git (introducción a git para los que no saben git)| Ángel Pablo Hinojosa/OSLUGR |
 
 
 
