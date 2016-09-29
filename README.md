@@ -14,6 +14,7 @@ http://www.meetup.com/es-ES/Granada-Geek/
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
 |05/10/2016|12:30    |ETSIIT Aula -1.2 |El Zen de Git (introducción a git para los que no saben git)| Ángel Pablo Hinojosa/OSLUGR |
+|14/10/2016|12:30    |  |Arduino y Hardware Libre| Paula (terceranexus6) & Javacasm |
 
 
 
