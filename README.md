@@ -1,7 +1,7 @@
 Granada Geek
 ==============
 
-Repositorio para organizar los eventos del grupo de usuarios/entusiastas/gente Granada Geek.
+Repositorio para organizar los eventos de Granada Geek.
 
 ## Sigue el repositorio
 Si quieres que te lleguen las notificaciones del repositorio, [suscríbete](https://github.com/iblancasa/granadageek/subscription)
@@ -12,16 +12,22 @@ http://www.meetup.com/es-ES/Granada-Geek/
 ## Eventos próximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
-|14/10/2016|12:30    |  |Arduino y Hardware Libre| Paula (terceranexus6) & Javacasm |
+|11/10/2016|19:00|Facultad de Ciencias|[Presentación Geek & Tech Girls](http://www.meetup.com/es-ES/Granada-Geek/events/234640453/)|[Geek & Tech Girls](https://twitter.com/geekandtechgirl)|
+|13/10/2016|13:30|ETSIIT Aula -1.2|[Como conseguir camisetas y empleo colaborando en proyectos de software libre](http://www.meetup.com/es-ES/Granada-Geek/events/234613099/)|[JJ Merelo](https://github.com/JJ)|
+|14/10/2016|12:00|ETSIIT Aula -1.2|[Charla Arduino y Hardware Libre](http://www.meetup.com/es-ES/Granada-Geek/events/234619858/)|[Paula de la Hoz](https://github.com/terceranexus6) y [Jose Antonio Vacas](https://github.com/javacasm)|
+|18/10/2016|12:30|ETSIIT Aula Usos Múltiples|Reunión inicial BeerJS Granada|[BeerJS Granada](https://github.com/beerjs/granada)|
+|19/10/2016|12:00|ETSIIT Aula -1.2|[Bots de Telegram para dominar el mundo](http://www.meetup.com/es-ES/Granada-Geek/events/234616410/)|[Paula de la Hoz](https://github.com/terceranexus6)|
+|25/10/2016|12:30|OSL|[PerlDancer, micro perl web framework](http://www.meetup.com/es-ES/Granada-Geek/events/234438835/)|[Germán Martínez](https://github.com/germaaan)|
+|-|-|ETSIIT|[Hackathon Electron (JavaScript)](http://www.meetup.com/es-ES/Granada-Geek/events/234465209/)|[OSL UGR](https://github.com/oslugr)|
 
 ## ¡Participa!
 [¿Quieres dar una charla o te gustaría que se hablase sobre algún tema? Abre un issue](https://github.com/iblancasa/miercolesgeek/issues) :speech_balloon:
 
 ## ¿Quiénes somos?
-Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reunimos en la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de Granada para hablar de distintos temas. No hace falta que seas miembro de la Universidad de Granada para participar.
+Un grupo de developers/makers/otros deseando de aprender unos de otros. Nos reunimos en la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de Granada para hablar de distintos temas. No hace falta que seas miembro de la Universidad de Granada para participar.
 
 ## Eventos pasados 2016/2017
-| Fecha    | Charla              |Autor       |
+| Fecha    | Charla             |Autor        |
 |:--------:|:------------------:|:-----------:|
 |05/10/2016|[El Zen de git][zen_git]|[Ángel Pablo Hinojosa](https://github.com/psicobyte)|
 |29/09/2016|[Pilas, microservicios, arquitecturas y otras cosas que quizá no te hayan contado](https://jj.github.io/lo-que-no/)|[JJ Merelo](https://github.com/JJ)|
@@ -31,7 +37,7 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 |17/09/2016|[Software Freedom Day 2016](https://storify.com/germaaan/software-freedom-day-2016)|[OSL UGR](https://github.com/oslugr)|
 
 ## Eventos pasados 2015/2016
-| Fecha    | Charla              |Autor       |
+| Fecha    | Charla             |Autor        |
 |:--------:|:------------------:|:-----------:|
 |03/06/2016|[Copyleft: Creced y multiplicaos][copyleft]|[Ángel Pablo Hinojosa](https://github.com/psicobyte)|
 |27/05/2016|[Taller de Scratch: JamToday][jamtoday]|[OSL UGR](https://github.com/oslugr)|
@@ -39,6 +45,7 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 |29/04/2016|[Taller de Scratch: Scratch Day][scratch_day]|[OSL UGR](https://github.com/oslugr)|
 |11/05/2016|[Cloud Computing: desarrollando en la ☁️][desarrollo_cloud]|[German Martinez](https://github.com/germaaan)|
 |07/05/2016|[Cómo petarlo en los ránkings de GitHub][petarlo_github]|[JJ Merelo](https://github.com/JJ)|
+|07/05/2016|[Seminario sobre algoritmos de ordenación][algoritmos_ordenacion]|[Francisco Gallego](https://github.com/fgallegosalido)|
 |06/05/2016|[¡Sed Hackers!][sed_hackers]|[Víctor Terrón](https://github.com/vterron)|
 |29/04/2016|[Mini-hackatón de Deep Learning con Torch][hackaton_torch]|[OSL UGR](https://github.com/oslugr)|
 |29/04/2016|[Electronic Frontier Foundation: Defendiendo tus derechos en el mundo digital][eff_derechos]|[Paula de la Hoz](https://github.com/terceranexus6)|
@@ -50,10 +57,11 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 |13/04/2016|[JQuery, navaja multiusos][taller_jquery]|[Germán Martínez](https://github.com/germaaan)|
 |08/04/2016|[Women Techmakers][women_techmakers]|[GDG Granada](https://github.com/GDGGranada)|
 |06/04/2016|[Visualización de datos con R][visualizacion_r]|[JJ Merelo](https://github.com/JJ)|
+|30/04/2016|[Taller de Introducción al ROM Hacking][taller_romhacking]|[Benito Palacios](https://github.com/pleonex)|
 |16/03/2016|[Visualización de datos con d3.js][visualizacion_d3js]|[JJ Merelo](https://github.com/JJ)|
 |09/03/2016|[Android Invaders: Seguridad en dispositivos Android][android_invaders]|[Juan Velasco](https://github.com/juanvelascogomez), [Antonio Solis](https://github.com/asolisi) y [Javier Perez](https://github.com/neon520)|
 |08/03/2016|[Taller JavaScript][taller_javascript]|[Victor Rivas](https://github.com/vrivas)|
-|07/03/2016|[Open Education Weekipedia][oew]|[OSL UGR](https://github.com/oslugr)|
+|07/03/2016|[Open Education Weekipedia. Editar la wikipedia: mujeres en Granada][oew]|[OSL UGR](https://github.com/oslugr)|
 |04/03/2016|[Open Data Day & Hackatón Certamen de Proyectos Libres UGR][opd_2016]|[OSL UGR](https://github.com/oslugr)|
 |02/03/2016|[Codename_Sting: Introducción al desarrollo de videojuegos con Unity][codename_sting]|[Andrés Ortiz](https://github.com/angrykoala)|
 |22/02/2016|[Taller de Ruby][taller_ruby]|[Paula de la Hoz](https://github.com/terceranexus6)|
@@ -81,6 +89,7 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 ¡Te esperamos! :eyes:
 
 
+[algoritmos_ordenacion]:https://github.com/fgallegosalido/Algoritmos-Ordenacion
 [android_invaders]:http://juanvelascogomez.github.io/Android-Invaders
 [bots_dominar]:https://docs.google.com/presentation/d/1IqVE9mdqlMXrcom07A29VR74XkZ9KOj42V5v6m8MuUs/
 [brujeria_node]:https://rawgit.com/angrykoala/node-wizardry/master/index.html
@@ -117,6 +126,7 @@ Un grupo de developers/makers/otro deseando de aprender unos de otros. Nos reuni
 [taller_javascript]:http://alpechin.ujaen.es:6989/javascript-2014/
 [taller_jquery]:https://github.com/germaaan/Charla_jQuery
 [taller_python]:http://www.psicobyte.com/descargas/taller_python.pdf
+[taller_romhacking]:http://www.meetup.com/es-ES/Granada-Geek/events/229485414/
 [taller_ruby]:https://github.com/terceranexus6/cursoruby
 [tortilla_cebolla]:https://github.com/MarFerPra/tortilla-con-cebolla/blob/master/slides.pdf
 [tutorial_perl]:https://github.com/renatolrr/perl-moderno
