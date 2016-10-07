@@ -28,7 +28,7 @@ Un grupo de developers/makers/otros deseando de aprender unos de otros. Nos reun
 ## Eventos pasados 2016/2017
 | Fecha    | Charla             |Autor        |
 |:--------:|:------------------:|:-----------:|
-|05/10/2016|[El Zen de git][zen_git]|[Ángel Pablo Hinojosa](https://github.com/psicobyte)|
+|05/10/2016|El Zen de git: [Presentación][zen_git] / [Vídeo][video_git]|[Ángel Pablo Hinojosa](https://github.com/psicobyte)|
 |29/09/2016|[Pilas, microservicios, arquitecturas y otras cosas que quizá no te hayan contado](https://jj.github.io/lo-que-no/)|[JJ Merelo](https://github.com/JJ)|
 |27/09/2016|[Qué hay de nuevo en Perl 6](http://www.meetup.com/Granada-Geek/events/233907731/)|[OSL UGR](https://github.com/oslugr)|
 |25/09/2016|[Wiki Loves Monuments: Vámonos a los alrededores de Granada](https://www.facebook.com/SoftwareLibreUGR/photos/?tab=album&album_id=1006406072803273)|[OSL UGR](https://github.com/oslugr)|
@@ -38,6 +38,7 @@ Un grupo de developers/makers/otros deseando de aprender unos de otros. Nos reun
 ## Eventos pasados 2015/2016
 | Fecha    | Charla             |Autor        |
 |:--------:|:------------------:|:-----------:|
+|29/06/2016|[Un ubetense en Google][ubetense_google]|Luis Carlos Cobo|
 |03/06/2016|[Copyleft: Creced y multiplicaos][copyleft]|[Ángel Pablo Hinojosa](https://github.com/psicobyte)|
 |27/05/2016|[Taller de Scratch: JamToday][jamtoday]|[OSL UGR](https://github.com/oslugr)|
 |20/05/2016|[Smart City Hack + Certamen de proyectos libres](http://www.meetup.com/es-ES/Granada-Geek/events/231039513/)|[OSL UGR](https://github.com/oslugr)|
@@ -129,7 +130,9 @@ Un grupo de developers/makers/otros deseando de aprender unos de otros. Nos reun
 [taller_ruby]:https://github.com/terceranexus6/cursoruby
 [tortilla_cebolla]:https://github.com/MarFerPra/tortilla-con-cebolla/blob/master/slides.pdf
 [tutorial_perl]:https://github.com/renatolrr/perl-moderno
+[ubetense_google]:https://www.meetup.com/es-ES/Granada-Geek/events/231984636/
 [ubuntu_beers]:http://loco.ubuntu.com/events/ubuntu-es/3277-ubuntu-beer/
+[video_git]:https://www.youtube.com/watch?v=P4RcOZycZBM
 [visualizacion_d3js]:http://jj.github.io/d3/
 [visualizacion_r]:http://jj.github.io/data-vis/R.html
 [women_techmakers]:http://www.meetup.com/es-ES/GDG_Granada/events/228331962/
