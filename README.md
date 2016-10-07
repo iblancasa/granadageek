@@ -15,8 +15,9 @@ http://www.meetup.com/es-ES/Granada-Geek/
 |11/10/2016|19:00|Facultad de Ciencias|[Presentación Geek & Tech Girls](http://www.meetup.com/es-ES/Granada-Geek/events/234640453/)|[Geek & Tech Girls](https://twitter.com/geekandtechgirl)|
 |13/10/2016|13:30|ETSIIT Aula -1.2|[Como conseguir camisetas y empleo colaborando en proyectos de software libre](http://www.meetup.com/es-ES/Granada-Geek/events/234613099/)|[JJ Merelo](https://github.com/JJ)|
 |14/10/2016|12:00|ETSIIT Aula -1.2|[Charla Arduino y Hardware Libre](http://www.meetup.com/es-ES/Granada-Geek/events/234619858/)|[Paula de la Hoz](https://github.com/terceranexus6) y [Jose Antonio Vacas](https://github.com/javacasm)|
-|18/10/2016|12:30|ETSIIT Aula Usos Múltiples|JavaScript: [Reunión inicial BeerJS Granada](https://github.com/beerjs/granada) y [Hackathon Electron](http://www.meetup.com/es-ES/Granada-Geek/events/234465209/)|[OSL UGR](https://github.com/oslugr) y [Víctor Rivas](https://github.com/vrivas)|
+|18/10/2016|12:30|ETSIIT Aula Usos Múltiples|[Reunión inicial BeerJS Granada](https://github.com/beerjs/granada): [taller de introducción a JavaScript y Electron](https://www.meetup.com/es-ES/Granada-Geek/events/234690224/)|[OSL UGR](https://github.com/oslugr) y [Víctor Rivas](https://github.com/vrivas)|
 |19/10/2016|12:00|ETSIIT Aula -1.2|[Bots de Telegram para dominar el mundo](http://www.meetup.com/es-ES/Granada-Geek/events/234616410/)|[Paula de la Hoz](https://github.com/terceranexus6)|
+|21/10/2016|Todo el día|OSL / CEVUG Aula Generalife|[Hackathon Electron (JavaScript)](https://www.meetup.com/es-ES/Granada-Geek/events/234465209/)|[OSL UGR](https://github.com/oslugr)|
 |25/10/2016|12:30|OSL|[PerlDancer, micro perl web framework](http://www.meetup.com/es-ES/Granada-Geek/events/234438835/)|[Germán Martínez](https://github.com/germaaan)|
 
 ## ¡Participa!
