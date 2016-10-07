@@ -15,8 +15,9 @@ http://www.meetup.com/es-ES/Granada-Geek/
 |11/10/2016|19:00|Facultad de Ciencias|[Presentación Geek & Tech Girls](http://www.meetup.com/es-ES/Granada-Geek/events/234640453/)|[Geek & Tech Girls](https://twitter.com/geekandtechgirl)|
 |13/10/2016|13:30|ETSIIT Aula -1.2|[Como conseguir camisetas y empleo colaborando en proyectos de software libre](http://www.meetup.com/es-ES/Granada-Geek/events/234613099/)|[JJ Merelo](https://github.com/JJ)|
 |14/10/2016|12:00|ETSIIT Aula -1.2|[Charla Arduino y Hardware Libre](http://www.meetup.com/es-ES/Granada-Geek/events/234619858/)|[Paula de la Hoz](https://github.com/terceranexus6) y [Jose Antonio Vacas](https://github.com/javacasm)|
-|18/10/2016|12:30|ETSIIT Aula Usos Múltiples|JavaScript: [Reunión inicial BeerJS Granada](https://github.com/beerjs/granada) y [Hackathon Electron](http://www.meetup.com/es-ES/Granada-Geek/events/234465209/)|[OSL UGR](https://github.com/oslugr) y [Víctor Rivas](https://github.com/vrivas)|
+|18/10/2016|12:30|ETSIIT Aula Usos Múltiples|[Reunión inicial BeerJS Granada](https://github.com/beerjs/granada): [taller de introducción a JavaScript y Electron](https://www.meetup.com/es-ES/Granada-Geek/events/234690224/)|[OSL UGR](https://github.com/oslugr) y [Víctor Rivas](https://github.com/vrivas)|
 |19/10/2016|12:00|ETSIIT Aula -1.2|[Bots de Telegram para dominar el mundo](http://www.meetup.com/es-ES/Granada-Geek/events/234616410/)|[Paula de la Hoz](https://github.com/terceranexus6)|
+|21/10/2016|Todo el día|OSL / CEVUG Aula Generalife|[Hackathon Electron (JavaScript)](https://www.meetup.com/es-ES/Granada-Geek/events/234465209/)|[OSL UGR](https://github.com/oslugr)|
 |25/10/2016|12:30|OSL|[PerlDancer, micro perl web framework](http://www.meetup.com/es-ES/Granada-Geek/events/234438835/)|[Germán Martínez](https://github.com/germaaan)|
 
 ## ¡Participa!
@@ -28,7 +29,7 @@ Un grupo de developers/makers/otros deseando de aprender unos de otros. Nos reun
 ## Eventos pasados 2016/2017
 | Fecha    | Charla             |Autor        |
 |:--------:|:------------------:|:-----------:|
-|05/10/2016|[El Zen de git][zen_git]|[Ángel Pablo Hinojosa](https://github.com/psicobyte)|
+|05/10/2016|El Zen de git: [Presentación][zen_git] / [Vídeo][video_git]|[Ángel Pablo Hinojosa](https://github.com/psicobyte)|
 |29/09/2016|[Pilas, microservicios, arquitecturas y otras cosas que quizá no te hayan contado](https://jj.github.io/lo-que-no/)|[JJ Merelo](https://github.com/JJ)|
 |27/09/2016|[Qué hay de nuevo en Perl 6](http://www.meetup.com/Granada-Geek/events/233907731/)|[OSL UGR](https://github.com/oslugr)|
 |25/09/2016|[Wiki Loves Monuments: Vámonos a los alrededores de Granada](https://www.facebook.com/SoftwareLibreUGR/photos/?tab=album&album_id=1006406072803273)|[OSL UGR](https://github.com/oslugr)|
@@ -38,6 +39,7 @@ Un grupo de developers/makers/otros deseando de aprender unos de otros. Nos reun
 ## Eventos pasados 2015/2016
 | Fecha    | Charla             |Autor        |
 |:--------:|:------------------:|:-----------:|
+|29/06/2016|[Un ubetense en Google][ubetense_google]|Luis Carlos Cobo|
 |03/06/2016|[Copyleft: Creced y multiplicaos][copyleft]|[Ángel Pablo Hinojosa](https://github.com/psicobyte)|
 |27/05/2016|[Taller de Scratch: JamToday][jamtoday]|[OSL UGR](https://github.com/oslugr)|
 |20/05/2016|[Smart City Hack + Certamen de proyectos libres](http://www.meetup.com/es-ES/Granada-Geek/events/231039513/)|[OSL UGR](https://github.com/oslugr)|
@@ -129,7 +131,9 @@ Un grupo de developers/makers/otros deseando de aprender unos de otros. Nos reun
 [taller_ruby]:https://github.com/terceranexus6/cursoruby
 [tortilla_cebolla]:https://github.com/MarFerPra/tortilla-con-cebolla/blob/master/slides.pdf
 [tutorial_perl]:https://github.com/renatolrr/perl-moderno
+[ubetense_google]:https://www.meetup.com/es-ES/Granada-Geek/events/231984636/
 [ubuntu_beers]:http://loco.ubuntu.com/events/ubuntu-es/3277-ubuntu-beer/
+[video_git]:https://www.youtube.com/watch?v=P4RcOZycZBM
 [visualizacion_d3js]:http://jj.github.io/d3/
 [visualizacion_r]:http://jj.github.io/data-vis/R.html
 [women_techmakers]:http://www.meetup.com/es-ES/GDG_Granada/events/228331962/
