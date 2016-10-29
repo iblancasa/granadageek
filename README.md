@@ -12,6 +12,11 @@ http://www.meetup.com/es-ES/Granada-Geek/
 ## Eventos próximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
+|3/11/2016|13:30|ETSIIT Aula -1.2|[Testeando con Node.js](http://www.meetup.com/es-ES/Granada-Geek/events/235179826/)| - |
+|12/11/2016|20:00|Continental Café|[Segunda reunión Interferencias](http://www.meetup.com/es-ES/Granada-Geek/events/235099189/)|[Interferencias](https://twitter.com/Inter_ferencias)|
+|29/11/2016|12:30|OSL UGR|["Ganchos" de git en Perl: Git::Hooks](http://www.meetup.com/es-ES/Granada-Geek/events/235179879/)|[JJ Merelo](https://github.com/JJ)|
+|02/12/2016|16:30|Facultad de Ciencias|[1º PyDay - Python Granada](http://www.meetup.com/es-ES/Granada-Geek/events/234947278/)|[Python Granada](https://twitter.com/python_granada)|
+|22/12/2016|09:30|ETSIIT|[Granada Ágil](http://www.meetup.com/es-ES/Granada-Geek/events/235054689/)|[OSL UGR](https://github.com/oslugr)|
 
 ## ¡Participa!
 [¿Quieres dar una charla o te gustaría que se hablase sobre algún tema? Abre un issue](https://github.com/iblancasa/miercolesgeek/issues) :speech_balloon:
@@ -26,18 +31,18 @@ Un grupo de developers/makers/otros deseando de aprender unos de otros. Nos reun
 |22/10/2016|[Los esenciales para Informática y Matemáticas][esenciales_inf_mat]|[LibreIM](https://github.com/libreim)|
 |21/10/2016|[Hackathon Electron (JavaScript)][hackathon_electron]|[OSL UGR](https://github.com/oslugr)|
 |19/10/2016|[Bots de Telegram para dominar el mundo][bots_dominar]|[Paula de la Hoz](https://github.com/terceranexus6)|
-|18/10/2016|Reunión inicial [BeerJS Granada]: [taller de introducción a JavaScript][taller_javascript] y [Electron][introductron]|[Víctor Rivas](https://github.com/vrivas) y [Germán Martínez](https://github.com/germaaan)|
+|18/10/2016|Reunión inicial [BeerJS Granada](https://github.com/beerjs/granada): [taller de introducción a JavaScript][taller_javascript] y [Electron][introductron]|[Víctor Rivas](https://github.com/vrivas) y [Germán Martínez](https://github.com/germaaan)|
 |14/10/2016|[Primera quedada Interferencias][primera_interferencias]|[Interferencias](https://twitter.com/Inter_ferencias)|
 |15/10/2016|[Charla Arduino][charla_arduino] y [Hardware Libre][charla_hl]|[Paula de la Hoz](https://github.com/terceranexus6) y [Jose Antonio Vacas](https://github.com/javacasm)|
 |13/10/2016|[Como conseguir camisetas y empleo colaborando en proyectos de software libre][camisetas]|[JJ Merelo](https://github.com/JJ)|
 |11/10/2016|[Presentación Geek & Tech Girls][presentacion_gtg]|[Geek & Tech Girls](https://github.com/geekandtechgirls)|
 |10/10/2016|[CodeWeekES 2016][codeweekes_2016]|[OSL UGR](https://github.com/oslugr)|
 |05/10/2016|El Zen de git: [Presentación][zen_git] / [Vídeo][video_git]|[Ángel Pablo Hinojosa](https://github.com/psicobyte)|
-|29/09/2016|[Pilas, microservicios, arquitecturas y otras cosas que quizá no te hayan contado](https://jj.github.io/lo-que-no/)|[JJ Merelo](https://github.com/JJ)|
-|27/09/2016|[Qué hay de nuevo en Perl 6](http://www.meetup.com/Granada-Geek/events/233907731/)|[OSL UGR](https://github.com/oslugr)|
-|25/09/2016|[Wiki Loves Monuments: Vámonos a los alrededores de Granada](https://www.facebook.com/SoftwareLibreUGR/photos/?tab=album&album_id=1006406072803273)|[OSL UGR](https://github.com/oslugr)|
-|23/09/2016|[FPGAs libres](https://github.com/Obijuan/myslides/wiki/2016_09_23-Granada-Geek-FPGAs-Libres)|[Juan Gonzalez](https://github.com/Obijuan)|
-|17/09/2016|[Software Freedom Day 2016](https://storify.com/germaaan/software-freedom-day-2016)|[OSL UGR](https://github.com/oslugr)|
+|29/09/2016|[Pilas, microservicios, arquitecturas y otras cosas que quizá no te hayan contado][pilas_microservicios]|[JJ Merelo](https://github.com/JJ)|
+|27/09/2016|[Qué hay de nuevo en Perl 6][perl_6]|[OSL UGR](https://github.com/oslugr)|
+|25/09/2016|[Wiki Loves Monuments: Vámonos a los alrededores de Granada][wlm_2016]|[OSL UGR](https://github.com/oslugr)|
+|23/09/2016|[FPGAs libres][fpga_libres]|[Juan Gonzalez](https://github.com/Obijuan)|
+|17/09/2016|[Software Freedom Day 2016][sfd_2016]|[OSL UGR](https://github.com/oslugr)|
 
 ## Eventos pasados 2015/2016
 | Fecha    | Charla             |Autor        |
@@ -95,35 +100,47 @@ Un grupo de developers/makers/otros deseando de aprender unos de otros. Nos reun
 
 [algoritmos_ordenacion]:https://github.com/fgallegosalido/Algoritmos-Ordenacion
 [android_invaders]:http://juanvelascogomez.github.io/Android-Invaders
-[beerjs_granada]:https://github.com/beerjs/granada
 [bots_dominar]:https://docs.google.com/presentation/d/1IqVE9mdqlMXrcom07A29VR74XkZ9KOj42V5v6m8MuUs/
 [brujeria_node]:https://rawgit.com/angrykoala/node-wizardry/master/index.html
+[camello_bailarin]:https://github.com/germaaan/camelloBailarin
+[camisetas]:https://jj.github.io/lo-que-no/conseguir.html
+[charla_arduino]:https://github.com/terceranexus6/charlas/blob/master/Arduino%20y%20Hardware%20Libre.pdf
+[charla_hl]:https://github.com/javacasm/charlaArduinoHardwareLibre
 [codename_sting]:https://github.com/angrykoala/codename_sting
+[codeweekes_2016]:https://github.com/oslugr/CodeWeek2016
 [copyleft]:http://www.psicobyte.com/descargas/mkday.pdf
 [cosas_git]:https://jj.github.io/masgit
 [desarrollo_cloud]:http://germaaan.github.io/charla_cloud/
 [eff_derechos]:https://docs.google.com/presentation/d/1Qa-nnVs56yVCniMMBZoD4EJk8FUyRnSmimi2cokjxjI/edit#slide=id.p
 [emacs]:https://github.com/JJ/ayniEmacs
+[esenciales_inf_mat]:https://github.com/libreim/tutorials
+[fpga_libres]:https://github.com/Obijuan/myslides/wiki/2016_09_23-Granada-Geek-FPGAs-Libres
 [hackathon_electron]:https://www.meetup.com/es-ES/Granada-Geek/events/234465209/
 [hackaton_miniblip]:https://github.com/hack-miniblip
 [hackaton_reciclaje]:http://osl.ugr.es/2016/04/26/hackaton-de-reciclaje-de-equipos-informaticos
 [hackaton_torch]:https://github.com/geneura-papers/pachangas-nn
 [hackthewall]:https://storify.com/jjmerelo/hackthewall
+[introductron]:https://github.com/germaaan/introductron
 [jamtoday]:https://github.com/Open-XXI/Scratch-Almeria/blob/master/transparencias/SCRATCH_JamToDay.pdf
 [oaw_2015]:http://osl.ugr.es/2015/10/20/tallerhackaton-de-ciencia-abierta-open-access-week-en-la-ugr/
 [oew]:https://es.wikipedia.org/wiki/Wikipedia:Encuentros/Open_Education_Weekipedia
 [opd_2016]:http://www.meetup.com/es-ES/Granada-Geek/events/228344701/
 [opensource_university]:http://www.slideshare.net/jjmerelo/why-free-libre-open-source-software-at-the-university
 [paasalo]:https://iblancasa.com/PaaSalo-iblancasa/
+[perl_6]:http://www.meetup.com/Granada-Geek/events/233907731/
 [perl_granada]:http://www.meetup.com/es-ES/Granada-Geek/events/228547791/
 [petarlo_github]:https://jj.github.io/petarlo/
 [pila_elk]:https://github.com/davidsf/charla_elasticsearch
+[pilas_microservicios]:https://jj.github.io/lo-que-no/
 [pispaas]:https://jj.github.io/pispaas/
 [polymer_polytechnic]:https://docs.google.com/presentation/d/1jWiRpZLcDki1gW5ojCLFKLrm8dDLAUOW4j-i-Nvt07U/edit#slide=id.g1259744247_0_0
+[presentacion_gtg]:https://github.com/geekandtechgirls/Presentaciones/blob/master/11oct2016%20%20-%20Presentacion%20GeekAndTechGirls.pdf
+[primera_interferencias]:http://interferenciasenlared.tumblr.com/post/151473009894/primera-quedada-interferencias
 [raspberry_geek]:https://github.com/javacasm/RaspberryMiercolesGeek
 [scratch_day]:https://drive.google.com/drive/folders/0B9rt0HqUGURdWEhzUC1XWFVMYUE
 [sed_hackers]:http://www.iaa.es/~vterron/sed-hackers.pdf
 [sfd_2015]:http://wiki.softwarefreedomday.org/2015/Spain/Granada/OSL
+[sfd_2016]:https://storify.com/germaaan/software-freedom-day-2016)
 [taller_ansible]:https://github.com/germaaan/provisionandoAndo
 [taller_arduino]:https://github.com/Alpha-Bug/Introduccion-Arduino
 [taller_bacula]:http://es.slideshare.net/esencia2/caf-con-bacula-tall
@@ -141,5 +158,6 @@ Un grupo de developers/makers/otros deseando de aprender unos de otros. Nos reun
 [video_git]:https://www.youtube.com/watch?v=P4RcOZycZBM
 [visualizacion_d3js]:http://jj.github.io/d3/
 [visualizacion_r]:http://jj.github.io/data-vis/R.html
+[wlm_2016]:https://www.facebook.com/SoftwareLibreUGR/photos/?tab=album&album_id=1006406072803273
 [women_techmakers]:http://www.meetup.com/es-ES/GDG_Granada/events/228331962/
 [zen_git]:http://www.psicobyte.com/descargas/ZenDeGit.pdf
