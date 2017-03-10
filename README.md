@@ -12,6 +12,9 @@ http://www.meetup.com/es-ES/Granada-Geek/
 ## Eventos próximos
 | Fecha    |Hora     | Lugar   | Charla     |Autor       |
 |:--------:|:-------:|:-------:|:----------:|:-----------|
+|16/03/2107|13:30|ETSIIT Aula -1.2 (aula polivalente)|[Básicos de la OSL: Creando páginas web con HTML desde 0](https://www.meetup.com/es-ES/Granada-Geek/events/236041736/)
+|14/03/2017|12:30|ETSIIT Salon de Grados|[Plataforma como servicio, publicando tus aplicaciones en la web](https://www.meetup.com/es-ES/Granada-Geek/events/237483362/)
+|10/03/2017|9:30|ETSIIT Sala de usos multiples|[Primer Hackathón de proyectos libres de la UGR](https://www.meetup.com/es-ES/Granada-Geek/events/238185217/)
 |3/11/2016|13:30|ETSIIT Aula -1.2|[Testeando con Node.js](http://www.meetup.com/es-ES/Granada-Geek/events/235179826/)| - |
 |12/11/2016|20:00|Continental Café|[Segunda reunión Interferencias](http://www.meetup.com/es-ES/Granada-Geek/events/235099189/)|[Interferencias](https://twitter.com/Inter_ferencias)|
 |29/11/2016|12:30|OSL UGR|["Ganchos" de git en Perl: Git::Hooks](http://www.meetup.com/es-ES/Granada-Geek/events/235179879/)|[JJ Merelo](https://github.com/JJ)|
